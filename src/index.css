@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.container{
+background-color: #cbf5e1;
+height: 600px;
+
+}
+.feature{
+  height: 700px;
+}
+.card1{
+  background-color: bisque;
+}
+.card2{
+  background-color: #cbf5e1;
+}
+.headcolor1{
+  color: #f0b132;
+}
+.headcolor2{
+  color: #2bc47d;
+  font: bold;
+}
+.about{
+  background-color: bisque;
+  
+}
+.circleperson{
+  height: 250px;
+  width: 250px;
+  border: 4px solid #2bc47d;
+  border-radius: 50%;
+}
